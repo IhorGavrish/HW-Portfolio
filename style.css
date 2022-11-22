@@ -1,0 +1,122 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+h2 {
+  font-size: 34px;
+  line-height: 46px;
+  padding-top: 100px;
+}
+p {
+  font-size: 18px;
+  line-height: 25px;
+}
+nav {
+  display: block;
+  width: 500px;
+  height: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul {
+  list-style: none;
+  margin-top: 30px;
+  padding-left: 0;
+  text-align: center;
+}
+li {
+  display: inline;
+}
+a {
+  text-decoration: none;
+  line-height: 25px;
+  font-size: 18px;
+  margin-left: 30px;
+  color: #828282;
+}
+a:hover {
+  color: black;
+}
+hr {
+  width: 970px;
+  border: 1px solid #828282;
+}
+.name {
+  width: 970px;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  font-size: 48px;
+  line-height: 65px;
+}
+.name img {
+  width: 970px;
+}
+#about {
+  background-color: #e5e5e5;
+  text-align: center;
+  margin-top: -33px;
+  height: 450px;
+}
+.paragraph {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#skills {
+  width: 970px;
+  height: 500px;
+  text-align: center;
+  margin-top: -28px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.apps {
+  display: inline-block;
+  padding: 30px 43px;
+}
+#portfolio {
+  background-color: #e5e5e5;
+  text-align: center;
+  margin-top: -33px;
+}
+
+#portfolio ul li a {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 18px;
+  text-align: center;
+  width: 200px;
+  color: black;
+  padding-top: 30px;
+  height: 80px;
+  text-decoration: underline;
+}
+#portfolio ul li:nth-child(3) a {
+  width: 260px;
+}
+#contacts {
+  text-align: center;
+  height: 500px;
+}
+.button {
+  width: 180px;
+  height: 44px;
+  background-color: black;
+  border-radius: 22px;
+  border: none;
+  color: white;
+  font-size: 18px;
+}
+.footerP {
+  display: block;
+  width: 170px;
+  height: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 14px;
+  line-height: 19px;
+  color: #828282;
+}
